@@ -1,4 +1,17 @@
+Project Name and Description:
+-an itunes api search engine where we show both the name of the object and the artist, as well as the price.
+
+Table of Contents
+-to be used you must enter the name of the artist in the input field and select the existing criteria, once completed you can click on the search button.
+![Alt text](image.png)
+
+Installation:
+-you just download the project from git and once it is opened in some compiler you use the command:
+-npm start
+-and it will open a browser window and there you will see the code running.
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
